@@ -1,0 +1,2 @@
+C:\Tool\WifiMonitor\publish\WifiMonitor.pdb
+C:\Tool\WifiMonitor\publish\WifiMonitor.exe

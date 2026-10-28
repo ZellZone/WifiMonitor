@@ -1,0 +1,5 @@
+C:\Tool\WifiMonitor\WifiMonitor\obj\Release\net8.0-windows\WifiMonitor.csproj.AssemblyReference.cache
+C:\Tool\WifiMonitor\WifiMonitor\obj\Release\net8.0-windows\WifiMonitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tool\WifiMonitor\WifiMonitor\obj\Release\net8.0-windows\WifiMonitor.AssemblyInfoInputs.cache
+C:\Tool\WifiMonitor\WifiMonitor\obj\Release\net8.0-windows\WifiMonitor.AssemblyInfo.cs
+C:\Tool\WifiMonitor\WifiMonitor\obj\Release\net8.0-windows\WifiMonitor.csproj.CoreCompileInputs.cache
